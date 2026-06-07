@@ -1,1 +1,1 @@
-# Python_polusem
+python solution_УмяроваЛианаНаилевна_ШЦТ-111.py
