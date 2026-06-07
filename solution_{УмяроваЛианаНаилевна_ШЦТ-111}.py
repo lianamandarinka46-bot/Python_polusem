@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from collections import defaultdict
 
 # ------------------- 1. ЗАГРУЗКА ДАННЫХ -------------------
-ZIP_PATH = r"C:\Users\umyar\Downloads\data_train.zip"   
+ZIP_PATH = "data_train.zip"    
 
 dfs = []
 with zipfile.ZipFile(ZIP_PATH) as z:
